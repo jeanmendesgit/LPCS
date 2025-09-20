@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\bin\Debug\net9.0\02-variables.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\bin\Debug\net9.0\02-variables.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\bin\Debug\net9.0\02-variables.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\bin\Debug\net9.0\02-variables.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\bin\Debug\net9.0\02-variables.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\02-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\02-variables.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\02-variables.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\02-variables.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\02-variables.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\refint\02-variables.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\02-variables.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\02-variables.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02-variables\obj\Debug\net9.0\ref\02-variables.dll

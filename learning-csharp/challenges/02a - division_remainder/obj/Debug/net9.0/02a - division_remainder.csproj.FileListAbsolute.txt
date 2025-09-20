@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\bin\Debug\net9.0\02a - division_remainder.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\bin\Debug\net9.0\02a - division_remainder.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\bin\Debug\net9.0\02a - division_remainder.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\bin\Debug\net9.0\02a - division_remainder.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\bin\Debug\net9.0\02a - division_remainder.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\02a - division_remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\02a - division_remainder.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\02a - division_remainder.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\02a - division_remainder.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\02a - division_remainder.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\refint\02a - division_remainder.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\02a - division_remainder.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\02a - division_remainder.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02a - division_remainder\obj\Debug\net9.0\ref\02a - division_remainder.dll

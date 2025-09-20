@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "02c-health-points/1.0.0": {
+        "runtime": {
+          "02c-health-points.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "02c-health-points/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

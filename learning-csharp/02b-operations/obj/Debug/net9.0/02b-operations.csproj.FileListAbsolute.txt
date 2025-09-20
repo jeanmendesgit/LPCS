@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\bin\Debug\net9.0\02b-operations.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\bin\Debug\net9.0\02b-operations.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\bin\Debug\net9.0\02b-operations.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\bin\Debug\net9.0\02b-operations.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\bin\Debug\net9.0\02b-operations.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\02b-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\02b-operations.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\02b-operations.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\02b-operations.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\02b-operations.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\refint\02b-operations.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\02b-operations.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\02b-operations.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\02b-operations\obj\Debug\net9.0\ref\02b-operations.dll

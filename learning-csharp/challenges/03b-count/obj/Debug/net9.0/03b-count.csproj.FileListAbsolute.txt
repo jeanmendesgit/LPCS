@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\bin\Debug\net9.0\03b-count.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\bin\Debug\net9.0\03b-count.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\bin\Debug\net9.0\03b-count.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\bin\Debug\net9.0\03b-count.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\bin\Debug\net9.0\03b-count.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\03b-count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\03b-count.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\03b-count.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\03b-count.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\03b-count.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\refint\03b-count.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\03b-count.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\03b-count.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03b-count\obj\Debug\net9.0\ref\03b-count.dll

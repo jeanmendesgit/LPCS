@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\bin\Debug\net9.0\03a-quests.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\bin\Debug\net9.0\03a-quests.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\bin\Debug\net9.0\03a-quests.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\bin\Debug\net9.0\03a-quests.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\bin\Debug\net9.0\03a-quests.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\03a-quests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\03a-quests.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\03a-quests.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\03a-quests.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\03a-quests.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\refint\03a-quests.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\03a-quests.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\03a-quests.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\03a-quests\obj\Debug\net9.0\ref\03a-quests.dll

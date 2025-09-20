@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\bin\Debug\net9.0\02a-operations-with-real-numbers.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\bin\Debug\net9.0\02a-operations-with-real-numbers.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\bin\Debug\net9.0\02a-operations-with-real-numbers.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\bin\Debug\net9.0\02a-operations-with-real-numbers.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\bin\Debug\net9.0\02a-operations-with-real-numbers.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\02a-operations-with-real-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\02a-operations-with-real-numbers.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\02a-operations-with-real-numbers.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\02a-operations-with-real-numbers.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\02a-operations-with-real-numbers.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\refint\02a-operations-with-real-numbers.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\02a-operations-with-real-numbers.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\02a-operations-with-real-numbers.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02a-operations-with-real-numbers\obj\Debug\net9.0\ref\02a-operations-with-real-numbers.dll

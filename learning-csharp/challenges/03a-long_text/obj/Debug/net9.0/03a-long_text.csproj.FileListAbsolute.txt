@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\bin\Debug\net9.0\03a-long_text.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\bin\Debug\net9.0\03a-long_text.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\bin\Debug\net9.0\03a-long_text.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\bin\Debug\net9.0\03a-long_text.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\bin\Debug\net9.0\03a-long_text.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\03a-long_text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\03a-long_text.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\03a-long_text.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\03a-long_text.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\03a-long_text.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\refint\03a-long_text.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\03a-long_text.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\03a-long_text.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\03a-long_text\obj\Debug\net9.0\ref\03a-long_text.dll

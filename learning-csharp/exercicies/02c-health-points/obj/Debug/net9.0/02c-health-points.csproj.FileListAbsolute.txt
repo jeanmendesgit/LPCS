@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\bin\Debug\net9.0\02c-health-points.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\bin\Debug\net9.0\02c-health-points.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\bin\Debug\net9.0\02c-health-points.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\bin\Debug\net9.0\02c-health-points.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\bin\Debug\net9.0\02c-health-points.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\02c-health-points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\02c-health-points.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\02c-health-points.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\02c-health-points.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\02c-health-points.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\refint\02c-health-points.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\02c-health-points.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\02c-health-points.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02c-health-points\obj\Debug\net9.0\ref\02c-health-points.dll

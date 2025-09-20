@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\02b - operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\02b - operation.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\02b - operation.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\02b - operation.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\bin\Debug\net9.0\02b - operation.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\bin\Debug\net9.0\02b - operation.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\bin\Debug\net9.0\02b - operation.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\bin\Debug\net9.0\02b - operation.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\bin\Debug\net9.0\02b - operation.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\02b - operation.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\refint\02b - operation.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\02b - operation.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\02b - operation.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\challenges\02b - operation\obj\Debug\net9.0\ref\02b - operation.dll

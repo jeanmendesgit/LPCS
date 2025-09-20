@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\bin\Debug\net9.0\01-hello.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\bin\Debug\net9.0\01-hello.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\bin\Debug\net9.0\01-hello.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\bin\Debug\net9.0\01-hello.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\bin\Debug\net9.0\01-hello.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\01-hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\01-hello.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\01-hello.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\01-hello.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\01-hello.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\refint\01-hello.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\01-hello.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\01-hello.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\01-hello\obj\Debug\net9.0\ref\01-hello.dll

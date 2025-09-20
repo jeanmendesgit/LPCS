@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\bin\Debug\net9.0\03-strings.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\bin\Debug\net9.0\03-strings.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\bin\Debug\net9.0\03-strings.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\bin\Debug\net9.0\03-strings.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\bin\Debug\net9.0\03-strings.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\03-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\03-strings.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\03-strings.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\03-strings.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\03-strings.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\refint\03-strings.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\03-strings.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\03-strings.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\03-strings\obj\Debug\net9.0\ref\03-strings.dll

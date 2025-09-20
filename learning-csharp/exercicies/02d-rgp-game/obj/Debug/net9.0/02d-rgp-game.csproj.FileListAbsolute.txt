@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\bin\Debug\net9.0\02d-rgp-game.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\bin\Debug\net9.0\02d-rgp-game.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\bin\Debug\net9.0\02d-rgp-game.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\bin\Debug\net9.0\02d-rgp-game.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\bin\Debug\net9.0\02d-rgp-game.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\02d-rgp-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\02d-rgp-game.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\02d-rgp-game.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\02d-rgp-game.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\02d-rgp-game.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\refint\02d-rgp-game.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\02d-rgp-game.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\02d-rgp-game.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02d-rgp-game\obj\Debug\net9.0\ref\02d-rgp-game.dll

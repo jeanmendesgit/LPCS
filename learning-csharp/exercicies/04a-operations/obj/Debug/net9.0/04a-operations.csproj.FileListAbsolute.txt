@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\bin\Debug\net9.0\04a-operations.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\bin\Debug\net9.0\04a-operations.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\bin\Debug\net9.0\04a-operations.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\bin\Debug\net9.0\04a-operations.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\bin\Debug\net9.0\04a-operations.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\04a-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\04a-operations.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\04a-operations.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\04a-operations.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\04a-operations.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\refint\04a-operations.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\04a-operations.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\04a-operations.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\04a-operations\obj\Debug\net9.0\ref\04a-operations.dll

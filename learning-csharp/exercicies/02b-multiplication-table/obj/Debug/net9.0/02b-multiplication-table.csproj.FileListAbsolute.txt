@@ -1,0 +1,14 @@
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\bin\Debug\net9.0\02b-multiplication-table.exe
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\bin\Debug\net9.0\02b-multiplication-table.deps.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\bin\Debug\net9.0\02b-multiplication-table.runtimeconfig.json
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\bin\Debug\net9.0\02b-multiplication-table.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\bin\Debug\net9.0\02b-multiplication-table.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\02b-multiplication-table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\02b-multiplication-table.AssemblyInfoInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\02b-multiplication-table.AssemblyInfo.cs
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\02b-multiplication-table.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\02b-multiplication-table.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\refint\02b-multiplication-table.dll
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\02b-multiplication-table.pdb
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\02b-multiplication-table.genruntimeconfig.cache
+C:\Users\jeanm\Documents\JM Unity 6\learning-csharp\exercicies\02b-multiplication-table\obj\Debug\net9.0\ref\02b-multiplication-table.dll
