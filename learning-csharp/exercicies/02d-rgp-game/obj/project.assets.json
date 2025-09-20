@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02d-rgp-game\\02d-rgp-game.csproj",
+      "projectUniqueName": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02d-rgp-game\\02d-rgp-game.csproj",
       "projectName": "02d-rgp-game",
-      "projectPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02d-rgp-game\\02d-rgp-game.csproj",
+      "projectPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02d-rgp-game\\02d-rgp-game.csproj",
       "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02d-rgp-game\\obj\\",
+      "outputPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02d-rgp-game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config"

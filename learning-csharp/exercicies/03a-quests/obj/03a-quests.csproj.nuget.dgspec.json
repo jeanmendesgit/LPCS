@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj": {}
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj": {
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj",
+        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj",
         "projectName": "03a-quests",
-        "projectPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj",
+        "projectPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\03a-quests\\03a-quests.csproj",
         "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\03a-quests\\obj\\",
+        "outputPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\03a-quests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config"

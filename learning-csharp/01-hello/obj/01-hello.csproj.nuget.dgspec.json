@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj": {}
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj": {
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj",
+        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj",
         "projectName": "01-hello",
-        "projectPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj",
+        "projectPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\01-hello\\01-hello.csproj",
         "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\01-hello\\obj\\",
+        "outputPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\01-hello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config"

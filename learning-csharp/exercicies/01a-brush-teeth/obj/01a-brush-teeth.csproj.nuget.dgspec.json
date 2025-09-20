@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj": {}
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj": {
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj",
+        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj",
         "projectName": "01a-brush-teeth",
-        "projectPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj",
+        "projectPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\01a-brush-teeth.csproj",
         "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\obj\\",
+        "outputPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\01a-brush-teeth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config"

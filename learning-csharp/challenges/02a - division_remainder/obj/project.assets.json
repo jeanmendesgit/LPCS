@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\challenges\\02a - division_remainder\\02a - division_remainder.csproj",
+      "projectUniqueName": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\challenges\\02a - division_remainder\\02a - division_remainder.csproj",
       "projectName": "02a - division_remainder",
-      "projectPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\challenges\\02a - division_remainder\\02a - division_remainder.csproj",
+      "projectPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\challenges\\02a - division_remainder\\02a - division_remainder.csproj",
       "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\challenges\\02a - division_remainder\\obj\\",
+      "outputPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\challenges\\02a - division_remainder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config"

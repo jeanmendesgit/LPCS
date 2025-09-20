@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj": {}
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj": {
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj",
+        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj",
         "projectName": "02c-health-points",
-        "projectPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj",
+        "projectPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\02c-health-points.csproj",
         "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\obj\\",
+        "outputPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\exercicies\\02c-health-points\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config"

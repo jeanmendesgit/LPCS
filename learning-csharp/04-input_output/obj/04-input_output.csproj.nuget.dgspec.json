@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj": {}
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj": {
+    "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj",
+        "projectUniqueName": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj",
         "projectName": "04-input_output",
-        "projectPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj",
+        "projectPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\04-input_output\\04-input_output.csproj",
         "packagesPath": "C:\\Users\\jeanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeanm\\Documents\\JM Unity 6\\LPCS\\learning-csharp\\04-input_output\\obj\\",
+        "outputPath": "C:\\Users\\jeanm\\Documents\\LPCS\\learning-csharp\\04-input_output\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeanm\\AppData\\Roaming\\NuGet\\NuGet.Config"
